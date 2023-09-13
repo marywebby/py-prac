@@ -66,6 +66,12 @@ print(fav_language3.strip())
 nostarch_url = 'https://nostarch.com'
 print(nostarch_url.removeprefix('https://'))
     # 
+    
+    # avoiding syntax errors 
+message = "One of Python's strengths is its diverse community."
+print(message)
+    # if you use single quotes('') with apostrohes('s) this can cause syntax errors
+
 
 
 
