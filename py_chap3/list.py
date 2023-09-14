@@ -94,3 +94,38 @@ numbers.remove(odd_one_out)
 print(numbers)
 print(f"\nNumber {odd_one_out} does not follow to same pattern as the other numbers.")
 
+
+# organizing a list 
+    # sorting a list permanently with the sort() method
+    # want to sort things aplhabetically 
+planets = ['marcury', 'earth', 'mars', 'venus', 'pluto', 'saturn', 'uranus']
+# planets.sort()
+# print(planets)
+    # try it in reverse order now 
+planets.sort(reverse=True)
+# print(planets)
+
+# sorting a list temporarily with sort() method
+print(f"\nHere is the original list: \n{planets}")
+
+print("\nHere is the sorted list:")
+print(sorted(planets))
+
+print("\nHere is the original list again:")
+print(planets)
+
+# printing a list in reverse order 
+print(planets)
+planets.reverse()
+print(planets)
+
+# finding the length of a list  
+    # using the len() function 
+print(planets)
+num_of_planets = len(planets)
+print(num_of_planets)
+    # this is particulary helpful when you need to identify the number of aliens that sitll need ot be shot down in a game
+
+
+# avoiding index errors when working with lists 
+
