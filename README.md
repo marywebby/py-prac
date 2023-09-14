@@ -1,5 +1,5 @@
-# INTRO
-### python journey! 
+
+## python journey! 🐍 
 this repo will be a collection of things I have leanred from each chapter + a little journal of thoughts and feelings 
 
 ## days 1 + 2 + 3 🫣
