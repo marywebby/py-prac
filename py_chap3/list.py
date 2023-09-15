@@ -128,4 +128,6 @@ print(num_of_planets)
 
 
 # avoiding index errors when working with lists 
-
+singer = "mariah"
+message = (f"my favorite singer is {singer.title()}.")
+print(message)
