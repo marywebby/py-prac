@@ -31,4 +31,4 @@ print("Thank you for the show magicians!")
     # indenting unnecessarily
     # indenting unnecessarily after the loop 
     # forgetting the colon 
-    
+
