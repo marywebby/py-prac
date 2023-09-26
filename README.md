@@ -21,3 +21,9 @@ finished out 4
 - can see a lot of stuff in this chap used for leaderboards in games 
 - on to the next!!!!🚀
 
+## chap 5 !!
+1 chap in 1 day!
+- allllll about conditional statements 
+- really interesting to learn about all the different ways to add if/elif/else and when not to include if or else or elif
+- really started imagining using these different if statments in projects i want to do further down the road
+- busted out one whole chapter in one day and feeling very on top of it! 
