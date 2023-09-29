@@ -1,6 +1,6 @@
 
 ## python journey! 🐍 
-this repo will be a collection of things I have leanred from each chapter + a little journal of thoughts and feelings 
+this repo will be a collection of things I have leanred from each chapter of Python Crash Course! [x]https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280(y) + a little journal of thoughts and feelings 
 
 ## chap 1 + 2 + 3 🫣
 starting off strong with strings, lists, and data types
