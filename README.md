@@ -1,6 +1,6 @@
 
 ## python journey! 🐍 
-this repo will be a collection of things I have leanred from each chapter of Python Crash Course! [x]https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280(y) + a little journal of thoughts and feelings 
+this repo will be a collection of things I have leanred from each chapter of Python Crash Course [find here!]([www.google.com](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)) + a little journal of thoughts and feelings 
 
 ## chap 1 + 2 + 3 🫣
 starting off strong with strings, lists, and data types
@@ -26,4 +26,9 @@ finished out 4
 - allllll about conditional statements 
 - really interesting to learn about all the different ways to add if/elif/else and when not to include if or else or elif
 - really started imagining using these different if statments in projects i want to do further down the road
-- busted out one whole chapter in one day and feeling very on top of it! 
+- busted out one whole chapter in one day and feeling very on top of it!
+
+## chap 6 📘
+dictionaries!!
+- began chap 6 and feeling like review with js objects
+- first few pages FLEW by, really getting the hand at the basic python syntax and being able to easily read examples 
