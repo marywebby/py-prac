@@ -60,4 +60,16 @@ for name in sorted(favorite_languages.keys()):
     
     
 # looping through all values in a dictionary 
-    # 
+    # if you are only interested in the values, you can use .values()
+print("The following languages have been mentioned:")
+for language in favorite_languages.values():
+    print(language.title())
+    # printing these prints all the values including repeats
+    # to print unique values, we can use set()
+for language in set(favorite_languages.values()):
+    print(language.title())
+    # you can build a set directly by using braces and seperating the elements with commas
+    # languages = {'c', 'python', 'rust', 'c'}
+    # languages
+    # {'c', 'python', 'rust'}
+    
