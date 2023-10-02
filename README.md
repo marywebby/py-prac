@@ -32,3 +32,5 @@ finished out 4
 dictionaries!!
 - began chap 6 and feeling like review with js objects
 - first few pages FLEW by, really getting the hand at the basic python syntax and being able to easily read examples 
+- learned about dict inside lists! lists of dicts! and dict inside dict! can see the usefullness of each when creating projects that need to store different info in different ways! 
+
