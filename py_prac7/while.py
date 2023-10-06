@@ -22,8 +22,5 @@ while message != 'quit':
     if message != 'quit':
         print(message)
         
-        
-        
-# using a flag
-    # 
+
     
