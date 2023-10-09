@@ -34,3 +34,10 @@ dictionaries!!
 - first few pages FLEW by, really getting the hand at the basic python syntax and being able to easily read examples 
 - learned about dict inside lists! lists of dicts! and dict inside dict! can see the usefullness of each when creating projects that need to store different info in different ways! 
 
+## chap 7 💈⛳️
+while loops and flags
+- learned how to implement while loops and taking in users input! 
+- learned about how flags and breaks can be very benefical in creating responsive code
+- creating a fake poll, taking in users info in an input, placing that input into a list or dictionary, and then printing the new results of that info
+
+## chap 8
