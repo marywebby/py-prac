@@ -41,3 +41,13 @@ while loops and flags
 - creating a fake poll, taking in users info in an input, placing that input into a list or dictionary, and then printing the new results of that info
 
 ## chap 8
+functions ⚙️ ⚙️ ⚙️
+- loooooooong chapter, but very good knowledge
+- learned about positonal and keyword arguements 
+- learned how to creat functions that deal with lists, dicitonaries, if statements and while loops
+- learned how to import functions into different modules and how to import them using alias
+- feeling really good about progress so far! 
+
+## chap 9
+classes 
+- 
